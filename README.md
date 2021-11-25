@@ -1,0 +1,2 @@
+# Data-warehousing-mining-project
+Diabetes Predicts - Diabetes is a chronic disease that concerns many people despite their age. It occurs due to irregularity of insulin and blood glucose levels. In my project, I have taken a few supervised learning classification algorithms to check and identify whether a person is diabetic or not. I have used support vector machine and decision tree classifier algorithms and considered the accuracy of the given dataset. 
